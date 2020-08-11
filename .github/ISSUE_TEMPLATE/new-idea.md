@@ -30,9 +30,9 @@ TEAM ESTIMATES
 
 
 Estimate of effort:
-- [  ] s
-- [  ] m
-- [  ] l
+- [ ] s
+- [ ] m
+- [ ] l
 
 Estimate of value to end-user:
 - [ ] 1
@@ -46,9 +46,9 @@ Comments:
 
 
 Estimate of effort:
-- [  ] s
-- [  ] m
-- [  ] l
+- [ ] s
+- [ ] m
+- [ ] l
 
 Estimate of value to end-user:
 - [ ] 1
